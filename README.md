@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
  [![M3Dade's GitHub stats](https://github-readme-stats.vercel.app/api?username=M3Dade)](https://github.com/anuraghazra/github-readme-stats)
  -->
-![M3Dade's GitHub stats](https://github-readme-stats.vercel.app/api?username=M3Dade&theme=vue_dark&show_icons=true)
+![M3Dade's GitHub stats](https://github-readme-stats.vercel.app/api?username=M3Dade&theme=vue-dark&show_icons=true)
